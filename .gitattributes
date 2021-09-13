@@ -32,6 +32,7 @@
 *.sh text eol=lf
 *.shader text eol=lf
 *.shadergraph text eol=lf
+*.shadersubgraph text eol=lf
 *.tif filter=lfs diff=lfs merge=lfs -text
 *.tiff filter=lfs diff=lfs merge=lfs -text
 *.ttf filter=lfs diff=lfs merge=lfs -text
